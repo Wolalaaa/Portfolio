@@ -1,0 +1,50 @@
+* {
+background-color: #000000;
+opacity: 1;
+background-image:  radial-gradient(#b88339 0.55px, transparent 0.55px), radial-gradient(#b88339 0.55px, #815517 0.55px);
+background-size: 22px 22px;
+background-position: 0 0,11px 11px;
+color : white;
+font-family: Georgia, Garamond, "Courrier New";
+font-size: 86%;
+}
+
+
+#navbar, #footer{
+text-align: center;
+}
+
+h1{
+font-size : 600%;
+
+}
+
+h1, #intro{
+margin: 5px 2px 5px 2px;
+text-align: center;
+}
+
+#intro{
+font-size : 200%;
+}
+
+
+#navbar{
+border-bottom: solid 2px white;
+background: #008080;
+padding-bottom:  5px;
+}
+
+.section1{
+display: flex;
+}
+
+.imgProfil{
+max-width: 80%;;
+height=auto;
+
+}
+h3{
+font-family: Palatino;
+
+
